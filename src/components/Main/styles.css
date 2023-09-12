@@ -1,0 +1,18 @@
+.main-container {
+    background-color: whitesmoke;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 100px;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,51 @@
+.about-container {
+    background-color: rgb(166, 176, 191);
+}
+
+.about-me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.other-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 100px;
+}
+
+.details-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40%;
+    /* border: 1px solid black; */
+    padding: 20px 0;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.copyright-container {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg-white {
+    background-color: whitesmoke;
+}
+
+.bg-grey {
+    background-color: rgba(20, 16, 16, 0.794);
+    color: whitesmoke;
+}
